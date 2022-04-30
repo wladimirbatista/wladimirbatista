@@ -1,7 +1,7 @@
 ### Hello, World!! It´s me!! Wladimir Batista!! 👋
 
 - 🔭 Em busca do primeiro emprego como dev.
-- 🌱 Atualmente estou estudando React JS.
+- 🌱 Atualmente estou estudando React JS e Redux.
 - ⚡ Você gosta de paçoca?
 
 <div>
